@@ -1,3 +1,4 @@
 VGG16/vgg16_model filter=lfs diff=lfs merge=lfs -text
 VGG19/vgg19_model filter=lfs diff=lfs merge=lfs -text
 Xception/xception_model filter=lfs diff=lfs merge=lfs -text
+ResNet/resnet_model filter=lfs diff=lfs merge=lfs -text
