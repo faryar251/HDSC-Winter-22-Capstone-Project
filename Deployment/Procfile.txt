@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run user_interface.py
