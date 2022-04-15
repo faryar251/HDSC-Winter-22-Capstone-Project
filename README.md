@@ -1,12 +1,28 @@
 # HDSC-Winter-22-Capstone-Project
 Malaria Detection via Blood Sample Image using CNNs
 
-## Collaboration guidelines
-These are the steps for collaborating and making PRs
-1. Fork the repository.
-2. Clone the forked repo into your local  or you work with the cloned repo on github directly.
-3. Create a branch with your name.
-4. Input your codes and make commits.
-5. Create a PR to production branch in the parent repository.
+## Objective
+Classification of blood sample images as containing malaria parasite and otherwise, with further detection and localization of the parasitic cells in the images that contain malaria parasites.
 
-#Viola
+## Framworks and Languages Used
+<li>
+  <ol> Python </ol>
+  <ol> Swift </ol>
+  <ol> OpenCV </ol>
+  <ol> PIL </ol>
+  <ol> Tensorflow </ol>
+</li>
+ 
+## Deployment
+<li>
+  <ol> Web App deployment via Streamlit/Heroku https://dexter-malaria-predictor.herokuapp.com/ </ol>
+  <ol> Mobile App deployment via Tensorflow Lite </ol>
+</li>
+ 
+ ### Mobile App Ouput
+![IMG_3692](https://user-images.githubusercontent.com/40724187/163575484-bac71792-79de-4362-a478-68173b3d1287.jpg)
+![IMG_3693](https://user-images.githubusercontent.com/40724187/163575514-5b5f013c-71d2-40fe-a056-22f2ecc236e9.jpg)
+
+### Web App Ouput
+
+https://user-images.githubusercontent.com/40724187/163577131-99575dc2-7701-485c-b1fd-002e997ec713.mp4
