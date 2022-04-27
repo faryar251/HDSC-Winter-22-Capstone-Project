@@ -19,9 +19,12 @@ Classification of blood sample images as containing malaria parasite and otherwi
   <ol> Mobile App deployment via Tensorflow Lite </ol>
 </li>
  
- ### Mobile App Ouput
-![IMG_3692](https://user-images.githubusercontent.com/40724187/163575484-bac71792-79de-4362-a478-68173b3d1287.jpg)
-![IMG_3693](https://user-images.githubusercontent.com/40724187/163575514-5b5f013c-71d2-40fe-a056-22f2ecc236e9.jpg)
+### Mobile App Ouput
+
+
+https://user-images.githubusercontent.com/40724187/165615379-05df8f9c-f007-4aae-815f-eec1c1fbda70.mp4
+
+ 
 
 ### Web App Ouput
 
